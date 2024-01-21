@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["✅️Minecraft👑","🇮🇹Tokcraft🇮🇹];
 
 
 let currentIndex = 0;
